@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: cs414
+Version: 0.0.0
+Summary: Network controller for JHU Computer Networks (CS414), Spring 2021,adapted from Stanford CS144 course: https://bitbucket.org/huangty/cs144_lab3
+Home-page: UNKNOWN
+Author: Katarina Mayer (CS414 TA)
+Author-email: UNKNOWN
+License: GPL
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Internet
